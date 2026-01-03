@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 
-API_KEY = "JWJHZB3HST1JVFAJ"   # Replace with your API key
+API_KEY = "********"   # Replace with your API key
 SYMBOL = "AAPL"
 
 URL = "https://www.alphavantage.co/query"
